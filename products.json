@@ -1,0 +1,5 @@
+[
+  { "title": "Moottoripyörän valo", "price": 29.99, "image": "/product1.jpg" },
+  { "title": "Vedenpitävä takki", "price": 45.00, "image": "/product2.jpg" },
+  { "title": "LED työvalo", "price": 19.90, "image": "/product3.jpg" }
+]
